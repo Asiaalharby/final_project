@@ -1,6 +1,6 @@
 
 
-# Restaurant Review App - Stage 1, a Udacity's project
+# Restaurant Review App 
 This project is part of the Frontend Web Developer Nanodegree 
 4
 ​
