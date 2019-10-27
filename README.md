@@ -1,6 +1,5 @@
 
 
-1
 # Restaurant Review App - Stage 1, a Udacity's project
 2
 ​
