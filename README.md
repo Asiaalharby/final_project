@@ -1,10 +1,7 @@
 
 
 # Restaurant Review App - Stage 1, a Udacity's project
-2
-​
-3
-This project is part of the __Frontend Web Developer Nanodegree This project's purose is to gradually convert a static webpage to a mobile-ready web application.
+This project is part of the Frontend Web Developer Nanodegree 
 4
 ​
 5
