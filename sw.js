@@ -108,7 +108,7 @@ self.addEventListener('fetch', function(event) {
 			// console.log('Response from network is:', response);
 	
 			// since it wasn't found in the cache, lets just add it now
-			return caches.open(staticCacheName).then(cache => {
+			return caches.open(cacheName).then(cache => {
 			  cache.put(event.request, response.clone());
 	
 			  // now return what we fetched to the page
