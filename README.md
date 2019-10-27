@@ -5,7 +5,7 @@
 2
 ​
 3
-This project is part of the __Frontend Web Developer Nanodegree (full Google scholarship)__. This project's purose is to gradually convert a static webpage to a mobile-ready web application.
+This project is part of the __Frontend Web Developer Nanodegree This project's purose is to gradually convert a static webpage to a mobile-ready web application.
 4
 ​
 5
